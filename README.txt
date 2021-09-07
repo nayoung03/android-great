@@ -11,3 +11,6 @@ Do it! 안드로이드 앱 프로그래밍 7판
 
 사용하는 IDE
 android studio
+
+의사소통
+discord
